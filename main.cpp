@@ -22,7 +22,7 @@ int main()
 
   } else {
 
-    cout<<"?! Pssh. WHat are you talking about?\n";
+    cout<<"?! Pssh. What are you talking about?\n";
 
   }
 
