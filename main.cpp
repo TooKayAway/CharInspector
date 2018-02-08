@@ -28,7 +28,7 @@ int main()
 
   int value = input;
 
-  cout<<"The ASCII value is: "<<value;
+  cout<<"The ASCII value is: "<<value<<endl;
 
   return 0;
 }
